@@ -1,7 +1,7 @@
-MAIN Making AI Intuitive for Networks AI Education Events for Small
+MAIN Mastering AI Network AI Education Events for Small
 Businesses & Trades BUSINESS PLAN February 2026 CONFIDENTIAL
 
-1.  Executive Summary MAIN (Making AI Intuitive for Networks) is an
+1.  Executive Summary MAIN (Mastering AI Network) is an
     events-based business that teaches small businesses, tradespeople,
     and professional service providers how to use artificial
     intelligence to improve their business performance. Modelled on the
@@ -165,6 +165,6 @@ interest.
     14 days to get the first MAIN event on track for launch within 6-8
     weeks:
 
-MAIN --- Making AI Intuitive for Networks The UK's first AI education
+MAIN --- Mastering AI Network The UK's first AI education
 network for small businesses and trades. Start small. Prove it works.
 Scale fast.

@@ -1,6 +1,6 @@
 # MAIN
 
-*Making AI Intuitive for Networks*
+*Mastering AI Network*
 
 ## BRAND GUIDELINES
 
@@ -77,7 +77,7 @@ Maintain clear space equal to the height of the letter "M" around all sides of t
 
 ### Descriptor Line
 
-The full descriptor "Making AI Intuitive for Networks" appears beneath the wordmark in Newsreader italic at a reduced size. This is optional and should only be used when the audience may be unfamiliar with the brand.
+The full descriptor "Mastering AI Network" appears beneath the wordmark in Newsreader italic at a reduced size. This is optional and should only be used when the audience may be unfamiliar with the brand.
 
 ---
 
